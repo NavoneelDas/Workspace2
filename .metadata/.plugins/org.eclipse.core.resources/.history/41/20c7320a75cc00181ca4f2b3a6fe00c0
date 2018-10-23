@@ -1,0 +1,39 @@
+package com.niit.dao;
+
+import java.util.List;
+
+import com.niit.models.BlogPost;
+
+public class BlogPostDaoImpl implements BlogPostDao {
+
+	public void addBlogPost(BlogPost blogPost) {
+		// TODO Auto-generated method stub
+
+	}
+
+	public List<BlogPost> getApprovedBlogs() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public List<BlogPost> getBlogsWaitingForApproval() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public BlogPost getBlogPost(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public void updateBlogPost(BlogPost blogPost) {
+		// TODO Auto-generated method stub
+
+	}
+
+	public void deleteBlogPost(BlogPost blogPost) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

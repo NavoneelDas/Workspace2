@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Tue Oct 09 23:02:55 IST 2018
+org.eclipse.jst.j2ee.server\:backend_proj=WEB-INF/lib/backend_proj-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\NAVONEEL\\.m2\\repository\\org\\springframework\\spring-web\\4.3.5.RELEASE\\spring-web-4.3.5.RELEASE.jar=WEB-INF/lib/spring-web-4.3.5.RELEASE.jar

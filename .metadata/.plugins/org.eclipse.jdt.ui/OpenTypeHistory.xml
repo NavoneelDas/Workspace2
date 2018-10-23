@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=backend_proj/src\/main\/java&lt;com.niit.dao{ProductDao.java[ProductDao" modifiers="513" timestamp="1531397771365"/>
+<typeInfo handle="=backend_proj/src\/main\/java&lt;com.niit.dao{CustomerDao.java[CustomerDao" modifiers="513" timestamp="1538809351613"/>
+<typeInfo handle="=backend_proj/src\/main\/java&lt;com.niit.dao{CartItemDao.java[CartItemDao" modifiers="513" timestamp="1531152778189"/>
+<typeInfo handle="=project2b/src\/main\/java&lt;com.niit.dao{UserDao.java[UserDao" modifiers="513" timestamp="1537358838844"/>
+<typeInfo handle="=project2b/C:\/Program Files\/Java\/jdk1.8.0_161\/jre\/lib\/rt.jar&lt;org.omg.PortableInterceptor(USER_EXCEPTION.class[USER_EXCEPTION" modifiers="1537" timestamp="1522223284390"/>
+<typeInfo handle="=project2b/src\/main\/java&lt;com.niit.dao{JobDao.java[JobDao" modifiers="513" timestamp="1538377719205"/>
+<typeInfo handle="=project2b/src\/main\/java&lt;com.niit.dao{BlogPostDao.java[BlogPostDao" modifiers="513" timestamp="1538376374053"/>
+<typeInfo handle="=project2b/src\/main\/java&lt;com.niit.dao{BlogCommentDao.java[BlogCommentDao" modifiers="513" timestamp="1538377047923"/>
+<typeInfo handle="=project2b/src\/main\/java&lt;com.niit.dao{FriendDao.java[FriendDao" modifiers="513" timestamp="1538328539910"/>
+<typeInfo handle="=project2b/src\/main\/java&lt;com.niit.dao{NotificationDao.java[NotificationDao" modifiers="513" timestamp="1538376712340"/>
+<typeInfo handle="=project2b/src\/main\/java&lt;com.niit.dao{ProfilePictureDao.java[ProfilePictureDao" modifiers="513" timestamp="1538378242086"/>
+</typeInfoHistroy>

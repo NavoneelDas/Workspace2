@@ -1,0 +1,11 @@
+127.0.0.1 - - [01/Jul/2018:12:50:55 +0530] "GET / HTTP/1.1" 404 1000
+0:0:0:0:0:0:0:1 - - [01/Jul/2018:12:52:02 +0530] "GET /frontend_proj/home HTTP/1.1" 200 5691
+0:0:0:0:0:0:0:1 - - [01/Jul/2018:12:52:02 +0530] "GET /frontend_proj/home HTTP/1.1" 200 5691
+0:0:0:0:0:0:0:1 - - [01/Jul/2018:12:52:03 +0530] "GET /frontend_proj/resources/css/navbar.css HTTP/1.1" 404 998
+0:0:0:0:0:0:0:1 - - [01/Jul/2018:12:52:03 +0530] "GET /frontend_proj/resources/images/Furniture.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [01/Jul/2018:12:52:03 +0530] "GET /frontend_proj/resources/images/NIIT.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [01/Jul/2018:12:52:04 +0530] "GET /frontend_proj/resources/images/HTML%20CSS%20book.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [01/Jul/2018:12:52:04 +0530] "GET /frontend_proj/resources/images/Tshirt.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [01/Jul/2018:12:52:06 +0530] "GET /favicon.ico HTTP/1.1" 404 1022
+127.0.0.1 - - [01/Jul/2018:22:55:53 +0530] "GET / HTTP/1.1" 404 1000
+127.0.0.1 - - [01/Jul/2018:22:57:36 +0530] "GET / HTTP/1.1" 404 1000
